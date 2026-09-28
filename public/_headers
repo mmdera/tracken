@@ -1,0 +1,4 @@
+# Google AdSense verification script is installed in index.html <head>; _headers only contains HTTP header rules.
+# Keep the provider pages.dev hostname out of search results after the custom .in domain is connected.
+https://project.pages.dev/*
+  X-Robots-Tag: noindex
